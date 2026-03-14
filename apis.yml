@@ -1,0 +1,14 @@
+name: .editorconfig
+description: Cross-editor configuration file defining coding style preferences like
+  indentation, line endings, and character encoding to maintain consistent formatting
+  across different editors and IDEs.
+url: ''
+tags:
+- Coding Standards
+- Configuration
+- IDE
+- Formatting
+created: '2025'
+modified: '2025'
+apis: []
+common: []
