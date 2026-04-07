@@ -12,9 +12,9 @@ image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Coding Standards
   - Configuration
-  - IDE
-  - Formatting
   - Developer Tools
+  - Formatting
+  - IDE
 url: https://editorconfig.org/
 created: '2025-01-01'
 modified: '2026-03-16'
