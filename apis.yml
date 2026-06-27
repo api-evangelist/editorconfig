@@ -39,19 +39,19 @@ common:
     url: https://github.com/editorconfig/editorconfig
   - type: Issues
     url: https://github.com/editorconfig/editorconfig/issues
-  - type: SDK
+  - type: SDKs
     url: https://github.com/editorconfig/editorconfig-core-c
-  - type: SDK
+  - type: SDKs
     url: https://github.com/editorconfig/editorconfig-core-py
-  - type: SDK
+  - type: SDKs
     url: https://github.com/editorconfig/editorconfig-core-js
-  - type: SDK
+  - type: SDKs
     url: https://github.com/editorconfig/editorconfig-core-java
-  - type: SDK
+  - type: SDKs
     url: https://github.com/editorconfig/editorconfig-core-go
-  - type: SDK
+  - type: SDKs
     url: https://github.com/editorconfig/editorconfig-core-rust
-  - type: SDK
+  - type: SDKs
     url: https://github.com/editorconfig/editorconfig-core-net
 maintainers:
   - FN: Kin Lane
