@@ -27,6 +27,10 @@ access: 3rd-Party
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/editorconfig-domain-security.yml
+  - url: https://editorconfig.org/blog/feed.xml
+    type: Blog
   - type: Website
     url: https://editorconfig.org/
   - type: Documentation
