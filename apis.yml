@@ -38,6 +38,10 @@ access: 3rd-Party
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: CodeOfConduct
+    url: https://github.com/editorconfig/editorconfig/blob/master/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/editorconfig/editorconfig/blob/master/CONTRIBUTING.md
   - type: DomainSecurity
     url: security/editorconfig-domain-security.yml
   - url: https://editorconfig.org/blog/feed.xml
