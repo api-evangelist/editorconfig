@@ -12,6 +12,10 @@ description: >-
 type: Index
 deliveryModel:
   model: unknown
+  license_evidence:
+    repo: editorconfig/editorconfig
+    spdx: none
+    stars: 3451
   open_source: unknown
   commercial: false
   callable_host: false
@@ -19,7 +23,7 @@ deliveryModel:
   confidence: low
   source:
   - repository-unlicensed
-  generated: '2026-08-28'
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: unknown
